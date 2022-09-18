@@ -20,6 +20,3 @@ You can watch the site here
 - Responsive Design
 - Deploy the app live on Firebase
 
-## Author
-
-Özge Coşkun Gürsucu (codermother)
